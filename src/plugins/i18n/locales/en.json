@@ -1,0 +1,26 @@
+{
+    "boilerplate": "Boilerplate",
+    "awesome": "Awesome",
+    "powerful": "Powerful",
+    "blank": "Blank",
+    "post": "Post",
+    "store": "Store",
+    "document": "Document",
+    "blank_page": {
+        "title": "Blank Page"
+    },
+    "store_page": {
+        "store_testing": "Store Testing",
+        "counter": "Counter",
+        "increment": "Increment",
+        "decrement": "Decrement",
+        "reset": "Reset",
+        "full_name": "Full Name",
+        "first_name": "First Name",
+        "last_name": "Last Name"
+    },
+    "document_page": {
+        "title": "Document Page",
+        "coming_soon": "Coming Soon"
+    }
+}
